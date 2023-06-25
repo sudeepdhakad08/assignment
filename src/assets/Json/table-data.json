@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ajay",
+        "email": "ajay@gmail.com",
+        "phone": "12345567",
+        "address": "bhopal mp"
+    },
+    {
+        "name": "sumit",
+        "email": "sumit@gmail.com",
+        "phone": "12345567",
+        "address": "bhopal mp"
+    },
+    {
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "phone": "12345567",
+        "address": "bhopal mp"
+    },
+    {
+        "name": "sonam",
+        "email": "sonam@gmail.com",
+        "phone": "12345567",
+        "address": "bhopal mp"
+    }
+]
